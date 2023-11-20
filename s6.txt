@@ -1,2 +1,0 @@
-this is s6 file
-
